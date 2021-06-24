@@ -1,0 +1,11 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  background-color: #2DEB8A;
+  color: #0C0352;
+  font-size: 1.25em;
+}
+
+[data-tooltip] {
+  
+}
+
